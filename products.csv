@@ -1,0 +1,83 @@
+,name,description,category,price,page_name,loc,Personal_S_Price,Large_S_Price
+0,Garlic Bread Sticks - Family,"Freshly made bread sticks, sprinkled with garlic seasoning & brushed with garlic butter.",Appetisers,149,PizzaHut,Dhaka,0.0,0.0
+1,Garlic Bread - Family,"In the Italian tradition-hot garlic butter, spread on four slices of crusty french bread.",Appetisers,189,PizzaHut,Dhaka,0.0,0.0
+2,Baked Potato Wedges - Family,Crisp & savoury potato wedges served with dipping sauces.,Appetisers,259,PizzaHut,Dhaka,0.0,0.0
+3,Spicy Garlic Mushrooms - Family,Button mushrooms lightly sauteed in a blend of herbs & spice garlic.,Appetisers,489,PizzaHut,Dhaka,0.0,0.0
+4,Garlic Bread Spicy Supreme - Family,"Topped with Cheese, Onion & Green Chilies.",Appetisers,299,PizzaHut,Dhaka,0.0,0.0
+5,Cheesy Garlic Sticks - Family,Breadsticks with hot melting cheese on top.,Appetisers,209,PizzaHut,Dhaka,0.0,0.0
+6,Garlic bread with cheese - Family,Hot Garlic Bread topped with Mozzarella Cheese.,Appetisers,289,PizzaHut,Dhaka,0.0,0.0
+7,7 UP - Medium,7UP (600ml),Drinks,35,PizzaHut,Dhaka,0.0,0.0
+8,Mountain Dew - Family,Mountain Dew (600 ml),Drinks,32,PizzaHut,Dhaka,0.0,0.0
+9,PEPSI - Family,PEPSI (600 ml),Drinks,35,PizzaHut,Dhaka,0.0,0.0
+10,Chicken Cheese Bombs,Fried chicken balls stuffed with melted cheese.,Teasers,299,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+11,Spicy Cajun Fries,French fries sprinkled with cajun spice.,Teasers,159,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+12,Fries - Salt  Pepper,Classic french fries.,Teasers,139,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+13,Onion Rings,Deep fried onion rings with breadcrumbs,Teasers,149,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+14,Spicy Garlic Mushrooms,Mushroom fried with garlic  mustard sauce.,Teasers,269,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+15,Paneer Sticks,Deshi cottage cheese sticks fried with breadcrumbs; served with deshi mint chutney.,Teasers,399,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+16,Buffalo,Chicken wings/ Bangkok style fried chicken dipped in hot sweet  sour pepper sauce.,Crispy Chicken,399,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+17,Naga-Tastic,Chicken wings/ Bangkok style fried chicken dipped in spicy naga sauce.,Crispy Chicken,399,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+18,Honey Garlic,Chicken wings/ Bangkok style fried chicken dipped in honey garlic sauce.,Crispy Chicken,399,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+19,Original,Original chicken wings/ Bangkok style fried chicken.,Crispy Chicken,399,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+20,The BIG Rob,Beef cheese burger topped with fried chicken sausages,Classic Burgers,379,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+21,Mushroom Melt,Beef cheese burger topped with mushroom  chicken gravy,Classic Burgers,379,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+22,Madchef's FAV,A mix of our two best house sauces: garlic mayo  naga Blast; topped with crispy pepperoni bits.,Classic Burgers,379,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+23,Signature Chicken,Classic chicken cheeseburger with a choice of signature madhouse sauce.,Classic Burgers,269,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+24,Signature Beef,Classic beef cheeseburger with a choice of signature madhouse sauce.,Classic Burgers,299,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+25,The HAWK,Double beef cheese burger topped with shredded crispy pepperoni  beef bacon.,Gourmet Burgers,619,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+26,Smokin' Chic,Bbq chicken cheeseburger topped with smoked chicken layer  beef bacon.,Gourmet Burgers,419,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+27,The Cuban,Beef cheeseburger topped with smoked chicken  mustard sauce,Gourmet Burgers,419,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+28,Madame Lucy,Beef cheeseburger topped with chicken sausage gravy  beef bacon.,Gourmet Burgers,449,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+29,Mighty Spicy Chic,Double bbq chicken cheeseburger topped with signature naga blast sauce  beef bacon.,Gourmet Burgers,449,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+30,The Dhakaiyya,Beef cheeseburger topped with fried paneer layer  green chili mint sauce.,Gourmet Burgers,447,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+31,Gyro Chicken over Cajun Fries,"Cajun falvored potato fries topped with GYRO CHICKEN, Mint Yogurt  Spicy Sauce",Poutines,379,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+32,Crispy Chicken  Bacon,"Potato fries topped with brown gravy, Katsu Chicken, beef Bacon  melted cheddar cheese.",Poutines,439,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+33,Shah Poutine,"Potato fries topped with brown gravy, beef bacon, garlic mushroom, melted cheddar cheese and an egg",Poutines,379,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+34,Roast Chicken,"Potato fries topped with brown gravy, shredded roast chicken  melted cheddar cheese",Poutines,329,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+35,Gyro Chicken over Rice,Choice of rice served with gyro chicken topped with mint yogurt sauce.,Rice Meals,399,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+36,Spicy Basil Chicken,Choice of rice served with spicy basil infused chicken.,Rice Meals,349,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+37,Creamy Mushroom Stuffed Chicken,Choice of rice served with whole chicken breast stuffed with mushroom  cheddar cheese,Rice Meals,497,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+38,Achari Fried Rice,"Pickle flavored fried rice served with katsu chicken
+Flavor Choice: Naga/ Garlic",Rice Meals,299,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+39,Mango Habanero Grilled Chicken,"A glorious platter starring juicy chicken legs marinated with mouth-watering spices, slathered in a homemade spicy mango-habanero sauce, and grilled to perfection, accompanied by two sides.
+
+Side Options: MAD Fried Rice, Everything Potato, Garlic Mushroom, and Fries.",Wholesome Platters,649,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+40,Creamcheez Stuffed Chicken,"Seasoned tender chicken pieces stuffed with creamy, gooey cream cheese  spinach filling that you can dip in the most buttery base of velvety textured mashed potato and mushroom gravy.",Wholesome Platters,699,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+41,Mad Monster,"Choice of poutine, Half chicken steak  choice of Classic burger.",Wholesome Platters,649,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+42,Chicken Steak Meal,"Chicken steak coated with a choice of sauce, garlic mushroom  french fries.",Wholesome Platters,419,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+43,Strawberry Caipirinha,"Fresh strawberry muddled with freshly squeezed lime juice, sugar syrup and crushed ice in soda water.",Mocktails,279,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+44,Lime Refreshmint,"Made with mint, freshly squeezed lime juice, black salt and sugar syrup in soda water.",Mocktails,179,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+45,Honey Limade,"Wild honey muddled with mint leaves, freshly squeezed lime juice and sugar syrup in soda water.",Mocktails,219,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+46,Lemon Iced Tea,"A special blend of black tea muddled with freshly squeezed lime juice, sugar syrup and crushed ice.",Mocktails,179,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+47,Just Milo,"Cocoa based malted drink served with added cream, sugar syrup and crushed ice.",Shakes,299,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+48,Cake In My Shake,Brownie piece dipped in hazelnut and cocoa flavored drink.,Shakes,399,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+49,Nutella Madness,"Iconic hazelnut spread mixed with milk, cream and sugar syrup.",Shakes,349,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+50,Peanut Butter,"Crunchy Peanut butter mixed with milk, cream, chocolate and sugar syrup.",Shakes,349,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+51,Cookies n' Cream,"Blended chocolate cookies in milk, cream and sugar syrup.",Shakes,299,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+52,French Vanilla Latte,Classic chilled latte with a hint of Vanilla.,Shakes,299,Madchef,"['Wari', 'Banani', 'Dhanmondi', 'Mirpur', 'Uttara', 'Bailey Road', 'Sylhet']",0.0,0.0
+53,Baked-Chicken Arabiatta - Regular,"Pasta coated with  arabiatta sauce,chicken chunk & baked to a cheesy consistency.",Pasta,489,PizzaHut,Dhaka,0.0,0.0
+54,Baked-Chicken Mushroom - Regular,Pasta coated with creamy chicken mushroom sauce & baked to a cheesy consistency.,Pasta,599,PizzaHut,Dhaka,0.0,0.0
+55,Classic Margherita,"Tomatoes, garlic, oregano.",Pizza,349,PizzaHut,Dhaka,179.0,639.0
+56,Veggie Lovers,"Capsicum, onions, mushrooms.",Pizza,389,PizzaHut,Dhaka,199.0,709.0
+57,Classic Beef,With onion and green chilies,Pizza,509,PizzaHut,Dhaka,269.0,809.0
+58,Ultimate Hot Chicken,"Hot & Spicy Chicken, Onions, Green Chilies",Pizza,509,PizzaHut,Dhaka,269.0,809.0
+59,Classic Chicken Sausage,"Chicken Sausage, Onions, Green Chilies",Pizza,509,PizzaHut,Dhaka,269.0,809.0
+60,Chicken Exotica,"Chicken, onions, capsicum, jalapenos.",Pizza,619,PizzaHut,Dhaka,329.0,1089.0
+61,Spicy Beef.,"Beef, onion, red paprika, jalapenos.",Pizza,619,PizzaHut,Dhaka,329.0,1089.0
+62,Spicy Chicken.,"Lebanese chicken, mushroom, onion, green chilies.",Pizza,709,PizzaHut,Dhaka,379.0,1239.0
+63,Beef Lovers.,"Beef, onions, black olives, capsicum.",Pizza,709,PizzaHut,Dhaka,379.0,1239.0
+64,Veggie Supreme,"Capsicum, onions, mushrooms, tomatoes, sweet corn, black olives.",Pizza,619,PizzaHut,Dhaka,329.0,1089.0
+65,Double Cheese,Mounds of golden melting cheese on a rich bed of red tomato sauce.,Pizza,619,PizzaHut,Dhaka,329.0,1089.0
+66,Spicy Kala Bhuna,Spicy Kala Bhuna,Pizza,709,PizzaHut,Dhaka,379.0,1239.0
+67,BBQ Chicken,"BBQ Chicken, Green Chillies, Sweet Corn",Pizza,709,PizzaHut,Dhaka,379.0,1239.0
+68,Smoky Grilled Buzz,"Smoked Chicken, Mushroom, Onion and Red Paprika",Pizza,709,PizzaHut,Dhaka,379.0,1239.0
+69,Beef Pepperoni,"Beef Pepperoni,",Pizza,709,PizzaHut,Dhaka,379.0,1239.0
+70,Red N Hot.,"Spicy chicken, beef, onions, tomatoes, green chilies",Pizza,819,PizzaHut,Dhaka,429.0,1359.0
+71,Supreme.,"Spicy chicken, chicken & beef topped with onions, mushrooms, capsicum.",Pizza,819,PizzaHut,Dhaka,429.0,1359.0
+72,Chicken Supreme.,Chicken Supreme.,Pizza,819,PizzaHut,Dhaka,429.0,1359.0
+73,Chicken Classic.,"Spicy chicken, tomatoes, onions, capsicum, mushrooms, black olives.",Pizza,819,PizzaHut,Dhaka,429.0,1359.0
+74,Chicken Delight.,"Lebanese chicken, chicken sausage, capsicum, tomatoes, jalapenos, black olives.",Pizza,819,PizzaHut,Dhaka,429.0,1359.0
+75,Bbq Temptation .,"Spicy chicken marinated in BBQ sauce, onions, capsicum, tomatoes, green chilies.",Pizza,819,PizzaHut,Dhaka,429.0,1359.0
+76,Triple Chicken Feast,"Smoked Chicken, Lebanese chicken, spicy chicken.",Pizza,899,PizzaHut,Dhaka,479.0,1529.0
+77,Bbq Blast,"Spicy chicken marinated in BBQ sauce, chicken sausage, onions, mushrooms, jalapenos.",Pizza,899,PizzaHut,Dhaka,479.0,1529.0
+78,The Works,"Beef, Beef Pepperoni, Spicy Chicken, Chicken,  Capsicum, Onions, Mushrooms",Pizza,899,PizzaHut,Dhaka,479.0,1529.0
